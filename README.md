@@ -8,8 +8,8 @@ presidential elections.
 
 Usage
 -----
-Polexa find polling station
-Polexa play True or False
+- Polexa find polling station
+- Polexa play True or False
 
 Features
 --------
