@@ -8,11 +8,12 @@ presidential elections.
 
 Usage
 -----
-Alexa
+Polexa find polling station
+Polexa play True or False
 
 Features
 --------
-- Retrieve polling information, like popularity.
+- Retrieve polling information about candidates.
 - Retrieve important dates such as polling dates, or the dates of presidential debates.
 - Geo-location services: Know where the nearest voting station is.
 

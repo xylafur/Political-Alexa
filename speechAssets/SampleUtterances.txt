@@ -1,1 +1,2 @@
-Polexa where is the nearest polling station
+Polexa find polling station
+Polexa play True or False
