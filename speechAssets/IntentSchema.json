@@ -2,7 +2,16 @@
   "intents": [
     {
       "intent": "Polexa",
-      
-    },
+      "slots": [
+        {
+          "name": "Candidate",
+          "type": "pres_candidate"
+        },
+        {
+          "name": "state",
+          "type": "state_data"
+        }
+      ]
+    }
   ]
 }
