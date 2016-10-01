@@ -1,14 +1,14 @@
 # Political-Alexa
 
-$Polexa
-=======
+Polexa
+======
 
 $Polexa is an Amazon Alexa skill that retrieves useful information about
 presidential elections.
 
 Usage
 -----
-Alexa, <Insert Utterances>
+Alexa
 
 Features
 --------
